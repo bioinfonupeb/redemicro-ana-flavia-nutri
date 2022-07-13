@@ -1,0 +1,12 @@
+experiment_name: 'ana-flavia-hipotese-01'
+base_dir: '/home/lauro/nupeb/rede_microbioma_metagenomic'
+manifest_file: '/home/lauro/nupeb/rede_microbioma_metagenomic/data/raw/manifest/manifest-02-ana-flavia-study-01.tsv'
+metadata_file: '/home/lauro/nupeb/rede_microbioma_metagenomic/data/raw/metadata/metadata-ana-flavia-hipotese-01.tsv'
+class_col: 'sample-group'
+classifier_file: '/home/lauro/nupeb/dados_brutos_rede_genoma/16S_classifiers_qiime2/silva-138-99-nb-classifier.qza'
+replace_files: False
+phred: 20
+trunc_f: 0
+trunc_r: 0
+overlap: 12
+threads: 6
