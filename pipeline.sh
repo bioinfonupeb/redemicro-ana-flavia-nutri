@@ -19,7 +19,9 @@ STEPS=(
 	"step-quality-control"
 	"step-rarefaction-analysis"
 	"step-metataxonomy"
-	"step-diversity-analysis"
+        "step-diversity-analysis"
+        "step-abundance-analysis"
+#       "step-picrust2-analysis"
 	);
 
 STEPSDIR="nb-templates"
