@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>q2_demux : summarize</title>
+    <link rel="stylesheet" href="./q2templateassets/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./q2templateassets/css/normalize.css"/>
+    <script src="./q2templateassets/js/jquery-3.2.0.min.js" charset="utf-8"></script>
+    <script src="./q2templateassets/js/child.js"></script>
+    
+    
+  </head>
+  <body>
+    <div class="container-fluid">
+        
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1>Demultiplexed sequence counts summary</h1>
+        <table border="0" class="dataframe table table-striped table-hover">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>forward reads</th>
+      <th>reverse reads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Minimum</th>
+      <td>4135</td>
+      <td>4135</td>
+    </tr>
+    <tr>
+      <th>Median</th>
+      <td>131040.5</td>
+      <td>131040.5</td>
+    </tr>
+    <tr>
+      <th>Mean</th>
+      <td>161504.608108</td>
+      <td>161504.608108</td>
+    </tr>
+    <tr>
+      <th>Maximum</th>
+      <td>647035</td>
+      <td>647035</td>
+    </tr>
+    <tr>
+      <th>Total</th>
+      <td>11951341</td>
+      <td>11951341</td>
+    </tr>
+  </tbody>
+</table>
+    </div>
+</div>
+
+<div class="row">
+    
+        <div class="col-lg-6">
+            <h3>Forward Reads Frequency Histogram</h3>
+            <div class="text-center">
+                
+                    <a href="demultiplex-summary-forward.pdf">
+                        <img src="demultiplex-summary-forward.png">
+                        <p>Download as PDF</p>
+                    </a>
+                
+            </div>
+        </div>
+    
+        <div class="col-lg-6">
+            <h3>Reverse Reads Frequency Histogram</h3>
+            <div class="text-center">
+                
+                    <a href="demultiplex-summary-reverse.pdf">
+                        <img src="demultiplex-summary-reverse.png">
+                        <p>Download as PDF</p>
+                    </a>
+                
+            </div>
+        </div>
+    
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1>Per-sample sequence counts</h1>
+        <h4>
+            Total Samples:&nbsp;
+            
+                
+                    74 (forward)&nbsp;
+                
+            
+                
+                    74 (reverse)&nbsp;
+                
+            
+        </h4>
+        <table border="0" class="dataframe table table-striped table-hover">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>forward sequence count</th>
+      <th>reverse sequence count</th>
+    </tr>
+    <tr>
+      <th>sample ID</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>210421121676</th>
+      <td>647035</td>
+      <td>647035</td>
+    </tr>
+    <tr>
+      <th>210421121674</th>
+      <td>506121</td>
+      <td>506121</td>
+    </tr>
+    <tr>
+      <th>210421121725</th>
+      <td>423284</td>
+      <td>423284</td>
+    </tr>
+    <tr>
+      <th>210421121706</th>
+      <td>375256</td>
+      <td>375256</td>
+    </tr>
+    <tr>
+      <th>210421121715</th>
+      <td>372836</td>
+      <td>372836</td>
+    </tr>
+    <tr>
+      <th>210421121673</th>
+      <td>333780</td>
+      <td>333780</td>
+    </tr>
+    <tr>
+      <th>210421121720</th>
+      <td>331768</td>
+      <td>331768</td>
+    </tr>
+    <tr>
+      <th>210421121677</th>
+      <td>330714</td>
+      <td>330714</td>
+    </tr>
+    <tr>
+      <th>210421121675</th>
+      <td>312821</td>
+      <td>312821</td>
+    </tr>
+    <tr>
+      <th>210421121684</th>
+      <td>310271</td>
+      <td>310271</td>
+    </tr>
+    <tr>
+      <th>210421121721</th>
+      <td>309281</td>
+      <td>309281</td>
+    </tr>
+    <tr>
+      <th>210421121705</th>
+      <td>308667</td>
+      <td>308667</td>
+    </tr>
+    <tr>
+      <th>210421121724</th>
+      <td>301847</td>
+      <td>301847</td>
+    </tr>
+    <tr>
+      <th>210421121679</th>
+      <td>285084</td>
+      <td>285084</td>
+    </tr>
+    <tr>
+      <th>210707163916</th>
+      <td>282188</td>
+      <td>282188</td>
+    </tr>
+    <tr>
+      <th>210421121714</th>
+      <td>276858</td>
+      <td>276858</td>
+    </tr>
+    <tr>
+      <th>210707163915</th>
+      <td>230988</td>
+      <td>230988</td>
+    </tr>
+    <tr>
+      <th>210421121723</th>
+      <td>229683</td>
+      <td>229683</td>
+    </tr>
+    <tr>
+      <th>210421121685</th>
+      <td>228306</td>
+      <td>228306</td>
+    </tr>
+    <tr>
+      <th>210421121680</th>
+      <td>223799</td>
+      <td>223799</td>
+    </tr>
+    <tr>
+      <th>210707163907</th>
+      <td>217875</td>
+      <td>217875</td>
+    </tr>
+    <tr>
+      <th>210421121695</th>
+      <td>206418</td>
+      <td>206418</td>
+    </tr>
+    <tr>
+      <th>210421121691</th>
+      <td>202266</td>
+      <td>202266</td>
+    </tr>
+    <tr>
+      <th>210421121716</th>
+      <td>196797</td>
+      <td>196797</td>
+    </tr>
+    <tr>
+      <th>210421121681</th>
+      <td>187031</td>
+      <td>187031</td>
+    </tr>
+    <tr>
+      <th>210421121732</th>
+      <td>186361</td>
+      <td>186361</td>
+    </tr>
+    <tr>
+      <th>210707163911</th>
+      <td>183661</td>
+      <td>183661</td>
+    </tr>
+    <tr>
+      <th>210421121712</th>
+      <td>177253</td>
+      <td>177253</td>
+    </tr>
+    <tr>
+      <th>210421121727</th>
+      <td>164729</td>
+      <td>164729</td>
+    </tr>
+    <tr>
+      <th>210421121689</th>
+      <td>163120</td>
+      <td>163120</td>
+    </tr>
+    <tr>
+      <th>210421121713</th>
+      <td>152409</td>
+      <td>152409</td>
+    </tr>
+    <tr>
+      <th>210421121726</th>
+      <td>150458</td>
+      <td>150458</td>
+    </tr>
+    <tr>
+      <th>210421121682</th>
+      <td>149987</td>
+      <td>149987</td>
+    </tr>
+    <tr>
+      <th>210421121693</th>
+      <td>148626</td>
+      <td>148626</td>
+    </tr>
+    <tr>
+      <th>210707163909</th>
+      <td>144256</td>
+      <td>144256</td>
+    </tr>
+    <tr>
+      <th>210421121733</th>
+      <td>135548</td>
+      <td>135548</td>
+    </tr>
+    <tr>
+      <th>210421121683</th>
+      <td>134459</td>
+      <td>134459</td>
+    </tr>
+    <tr>
+      <th>210707163917</th>
+      <td>127622</td>
+      <td>127622</td>
+    </tr>
+    <tr>
+      <th>210707163913</th>
+      <td>123953</td>
+      <td>123953</td>
+    </tr>
+    <tr>
+      <th>210421121688</th>
+      <td>122902</td>
+      <td>122902</td>
+    </tr>
+    <tr>
+      <th>210421121719</th>
+      <td>122536</td>
+      <td>122536</td>
+    </tr>
+    <tr>
+      <th>210421121690</th>
+      <td>120702</td>
+      <td>120702</td>
+    </tr>
+    <tr>
+      <th>210707163908</th>
+      <td>116797</td>
+      <td>116797</td>
+    </tr>
+    <tr>
+      <th>210421121728</th>
+      <td>107985</td>
+      <td>107985</td>
+    </tr>
+    <tr>
+      <th>210421121722</th>
+      <td>107721</td>
+      <td>107721</td>
+    </tr>
+    <tr>
+      <th>210421121696</th>
+      <td>101910</td>
+      <td>101910</td>
+    </tr>
+    <tr>
+      <th>210421121730</th>
+      <td>101139</td>
+      <td>101139</td>
+    </tr>
+    <tr>
+      <th>210421121718</th>
+      <td>100217</td>
+      <td>100217</td>
+    </tr>
+    <tr>
+      <th>210421121717</th>
+      <td>100027</td>
+      <td>100027</td>
+    </tr>
+    <tr>
+      <th>210421121686</th>
+      <td>93878</td>
+      <td>93878</td>
+    </tr>
+    <tr>
+      <th>210421121678</th>
+      <td>86178</td>
+      <td>86178</td>
+    </tr>
+    <tr>
+      <th>210421121707</th>
+      <td>72819</td>
+      <td>72819</td>
+    </tr>
+    <tr>
+      <th>210707163910</th>
+      <td>72097</td>
+      <td>72097</td>
+    </tr>
+    <tr>
+      <th>210421121692</th>
+      <td>71914</td>
+      <td>71914</td>
+    </tr>
+    <tr>
+      <th>210421121731</th>
+      <td>63661</td>
+      <td>63661</td>
+    </tr>
+    <tr>
+      <th>210421121701</th>
+      <td>60306</td>
+      <td>60306</td>
+    </tr>
+    <tr>
+      <th>210421121687</th>
+      <td>59346</td>
+      <td>59346</td>
+    </tr>
+    <tr>
+      <th>210421121734</th>
+      <td>56029</td>
+      <td>56029</td>
+    </tr>
+    <tr>
+      <th>210421121694</th>
+      <td>52711</td>
+      <td>52711</td>
+    </tr>
+    <tr>
+      <th>210707163906</th>
+      <td>49180</td>
+      <td>49180</td>
+    </tr>
+    <tr>
+      <th>210707163912</th>
+      <td>47457</td>
+      <td>47457</td>
+    </tr>
+    <tr>
+      <th>210421121697</th>
+      <td>44280</td>
+      <td>44280</td>
+    </tr>
+    <tr>
+      <th>210421121711</th>
+      <td>43986</td>
+      <td>43986</td>
+    </tr>
+    <tr>
+      <th>210707163914</th>
+      <td>40315</td>
+      <td>40315</td>
+    </tr>
+    <tr>
+      <th>210421121709</th>
+      <td>29077</td>
+      <td>29077</td>
+    </tr>
+    <tr>
+      <th>210421121708</th>
+      <td>23805</td>
+      <td>23805</td>
+    </tr>
+    <tr>
+      <th>210421121729</th>
+      <td>23066</td>
+      <td>23066</td>
+    </tr>
+    <tr>
+      <th>210421121703</th>
+      <td>21087</td>
+      <td>21087</td>
+    </tr>
+    <tr>
+      <th>210421121699</th>
+      <td>18509</td>
+      <td>18509</td>
+    </tr>
+    <tr>
+      <th>210421121700</th>
+      <td>17539</td>
+      <td>17539</td>
+    </tr>
+    <tr>
+      <th>210421121698</th>
+      <td>12444</td>
+      <td>12444</td>
+    </tr>
+    <tr>
+      <th>210421121702</th>
+      <td>7288</td>
+      <td>7288</td>
+    </tr>
+    <tr>
+      <th>210421121704</th>
+      <td>4882</td>
+      <td>4882</td>
+    </tr>
+    <tr>
+      <th>210421121710</th>
+      <td>4135</td>
+      <td>4135</td>
+    </tr>
+  </tbody>
+</table>
+        <a href="per-sample-fastq-counts.tsv">Download as TSV</a>
+    </div>
+</div>
+
+    </div>
+    
+    
+  </body>
+</html>

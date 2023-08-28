@@ -1,39 +1,39 @@
-sample-name	group-id	group-desc
-#1 N9.01	NC	Ninhada controle
-#2 N11.01	NC	Ninhada controle
-#3 N9.05	NC	Ninhada controle
-#4 N11.02	NC	Ninhada controle
-#5 N9.03	NR	Ninhada reduzida
-#6 N10.03	NR	Ninhada reduzida
-#7 N10.04	NR	Ninhada reduzida
-#8 N10.07	NR	Ninhada reduzida
-#9 N10.08	NR	Ninhada reduzida
-#10 N7.01	STD-NC	Grupo dieta padrão
-#11 N7.02	STD-NC	Grupo dieta padrão
-#12 N8.01	STD-NC	Grupo dieta padrão
-#22 N1.01	STD-NC	Grupo dieta padrão
-#23 N3.01	STD-NC	Grupo dieta padrão
-#24 N4.01	STD-NC	Grupo dieta padrão
-#25 N4.02	STD-NC	Grupo dieta padrão
-#13 N7.03	STD-NR	Grupo dieta padrão
-#14 N7.04	STD-NR	Grupo dieta padrão
-#15 N8.03	STD-NR	Grupo dieta padrão
-#31 N1.02	STD-NR	Grupo dieta padrão
-#32 N1.03	STD-NR	Grupo dieta padrão
-#33 N2.02	STD-NR	Grupo dieta padrão
-#34 N2.03	STD-NR	Grupo dieta padrão
-#16 N7.05	HSD-NC	Grupo dieta high-sugar
-#17 N8.05	HSD-NC	Grupo dieta high-sugar
-#18 N8.06	HSD-NC	Grupo dieta high-sugar
-#26 N1-04	HSD-NC	Grupo dieta high-sugar
-#27 N2.04	HSD-NC	Grupo dieta high-sugar
-#28 N3.04	HSD-NC	Grupo dieta high-sugar
-#29 N4.03	HSD-NC	Grupo dieta high-sugar
-#30 N4.04	HSD-NC	Grupo dieta high-sugar
-#19 N7.07	HSD-NR	Grupo dieta high-sugar
-#20 N7.07	HSD-NR	Grupo dieta high-sugar
-#21 N8.08	HSD-NR	Grupo dieta high-sugar
-#35 N1.05	HSD-NR	Grupo dieta high-sugar
-#36 N2.05	HSD-NR	Grupo dieta high-sugar
-#37 N3.05	HSD-NR	Grupo dieta high-sugar
-#38 N3.06	HSD-NR	Grupo dieta high-sugar
+sample-id	group-id	group-desc
+N9.01	NC	Ninhada controle
+N11.01	NC	Ninhada controle
+N9.05	NC	Ninhada controle
+N11.02	NC	Ninhada controle
+N9.03	NR	Ninhada reduzida
+N10.03	NR	Ninhada reduzida
+N10.04	NR	Ninhada reduzida
+N10.07	NR	Ninhada reduzida
+N10.08	NR	Ninhada reduzida
+N7.01	STD-NC	Grupo dieta padrão
+N7.02	STD-NC	Grupo dieta padrão
+N8.01	STD-NC	Grupo dieta padrão
+N1.01	STD-NC	Grupo dieta padrão
+N3.01	STD-NC	Grupo dieta padrão
+N4.01	STD-NC	Grupo dieta padrão
+N4.02	STD-NC	Grupo dieta padrão
+N7.03	STD-NR	Grupo dieta padrão
+N7.04	STD-NR	Grupo dieta padrão
+N8.03	STD-NR	Grupo dieta padrão
+N1.02	STD-NR	Grupo dieta padrão
+N1.03	STD-NR	Grupo dieta padrão
+N2.02	STD-NR	Grupo dieta padrão
+N2.03	STD-NR	Grupo dieta padrão
+N7.05	HSD-NC	Grupo dieta high-sugar
+N8.05	HSD-NC	Grupo dieta high-sugar
+N8.06	HSD-NC	Grupo dieta high-sugar
+N1.04	HSD-NC	Grupo dieta high-sugar
+N2.04	HSD-NC	Grupo dieta high-sugar
+N3.04	HSD-NC	Grupo dieta high-sugar
+N4.03	HSD-NC	Grupo dieta high-sugar
+N4.04	HSD-NC	Grupo dieta high-sugar
+N7.07	HSD-NR	Grupo dieta high-sugar
+N7.08	HSD-NR	Grupo dieta high-sugar
+N8.08	HSD-NR	Grupo dieta high-sugar
+N1.05	HSD-NR	Grupo dieta high-sugar
+N2.05	HSD-NR	Grupo dieta high-sugar
+N3.05	HSD-NR	Grupo dieta high-sugar
+N3.06	HSD-NR	Grupo dieta high-sugar
