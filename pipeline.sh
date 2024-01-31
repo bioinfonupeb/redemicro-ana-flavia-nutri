@@ -15,13 +15,13 @@ BASEURL="https://raw.githubusercontent.com/lauromoraes/microbiom/main/nb-templat
 
 # Define pipeline steps
 STEPS=(
-	"step-prepare-data"
-	"step-quality-control"
-	"step-rarefaction-analysis"
-	"step-metataxonomy"
+#	"step-prepare-data"
+#	"step-quality-control"
+#	"step-rarefaction-analysis"
+#	"step-metataxonomy"
         "step-diversity-analysis"
-        "step-abundance-analysis"
-#       "step-picrust2-analysis"
+#        "step-abundance-analysis"
+#        "step-picrust2-analysis"
 	);
 
 STEPSDIR="nb-templates"
@@ -63,18 +63,18 @@ for i in "${!STEPS[@]}"; do
 	echo "====== Executing Pipeline STEP $((i+1)): ${STEPS[i]} ======";
 
 	# Define paths
-	STEPFILE="${STEPSDIR}/${STEPS[i]}.ipynb";
+	STEPFILE="${STEPSDIR}/${STEPS[i]}2.ipynb";
 	EXECUTEDFILE="${EXECUTEDDIR}/${STEPS[i]}-${EXPERIMENT}.ipynb";
 
 	# Download notebook if it not exists
 	if ! [ -f "$STEPFILE" ]; then
 		echo "... Downloading file: ${STEPFILE} ...";
-		wget "${BASEURL}/${STEPS[i]}.ipynb" -O "${STEPSDIR}/${STEPS[i]}.ipynb";
+		wget "${BASEURL}/${STEPS[i]}.ipynb" -O ${STEPFILE};
 	fi
 
 	# Execute notebook
 	echo ">>> Executing STEP file: ${STEPFILE} <<<";
-	papermill "${STEPFILE}" "${EXECUTEDFILE}" -f "${MYPARAMS}";
+	papermill --execution-timeout 666 --inject-input-path ${STEPFILE} --inject-output-path ${EXECUTEDFILE} -f ${MYPARAMS};
 done
 
 # Deactivate the virtual environment
