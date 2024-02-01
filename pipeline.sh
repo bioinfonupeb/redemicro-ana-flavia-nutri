@@ -63,7 +63,7 @@ for i in "${!STEPS[@]}"; do
 	echo "====== Executing Pipeline STEP $((i+1)): ${STEPS[i]} ======";
 
 	# Define paths
-	STEPFILE="${STEPSDIR}/${STEPS[i]}2.ipynb";
+	STEPFILE="${STEPSDIR}/${STEPS[i]}.ipynb";
 	EXECUTEDFILE="${EXECUTEDDIR}/${STEPS[i]}-${EXPERIMENT}.ipynb";
 
 	# Download notebook if it not exists

@@ -9,7 +9,7 @@ do
 	EXPDIR="experiments/ana-flavia-${EXPID}"
 #	rm -Rf "experiments/ana-flavia-${i}"
 
-	STEP="abundance-analysis"
+	STEP="step-diversity-analysis"
 	rm "nb-templates/step-${STEP}.ipynb"
     FILEPATH="${EXPDIR}/nb-executed-steps/step-${STEP}-ana-flavia-${EXPID}.ipynb"
     echo "Removing file: ${FILEPATH}"
