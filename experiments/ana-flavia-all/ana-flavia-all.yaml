@@ -1,9 +1,9 @@
 experiment_name: 'ana-flavia-all'
-base_dir: '/home/lauro/nupeb/rede-micro/redemicro-ana-flavia-nutri'
-manifest_file: '/home/lauro/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/manifest/manifest-ana-flavia-HSD-NCxHSD-NR.csv'
-metadata_file: '/home/lauro/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/metadata/metadata-ana-flavia-HSD-NCxHSD-NR.tsv'
+base_dir: '/mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri'
+manifest_file: '/mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/manifest-all-ana.csv'
+metadata_file: '/mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/metadata-all-ana.tsv'
 class_col: 'group-id'
-classifier_file: '/home/lauro/nupeb/rede-micro/models/silva-138-99-nb-classifier.qza'
+classifier_file: '/mnt/nupeb/rede-micro/models/silva-138-99-nb-classifier.qza'
 top_n: 20
 replace_files: False
 phred: 20

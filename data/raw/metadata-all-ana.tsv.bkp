@@ -1,0 +1,42 @@
+sample-id	sample-name	group-id	group-desc
+S210421121673	N9.01	NC	Ninhada controle
+S210421121674	N11.01	NC	Ninhada controle
+S210421121675	N9.05	NC	Ninhada controle
+S210421121676	N11.02	NC	Ninhada controle
+S210421121677	N9.03	NR	Ninhada reduzida
+S210421121678	N10.03	NR	Ninhada reduzida
+S210421121679	N10.04	NR	Ninhada reduzida
+S210421121680	N10.07	NR	Ninhada reduzida
+S210421121681	N10.08	NR	Ninhada reduzida
+S210421121682	N7.01	STD-NC	Grupo dieta padrão
+S210421121683	N7.02	STD-NC	Grupo dieta padrão
+S210421121684	N8.01	STD-NC	Grupo dieta padrão
+S210421121685	N7.03	STD-NR	Grupo dieta padrão
+S210421121686	N7.04	STD-NR	Grupo dieta padrão
+S210421121687	N8.03	STD-NR	Grupo dieta padrão
+S210421121688	N7.05	HSD-NC	Grupo dieta high-sugar
+S210421121689	N8.05	HSD-NC	Grupo dieta high-sugar
+S210421121690	N8.06	HSD-NC	Grupo dieta high-sugar
+S210421121691	N7.07	HSD-NR	Grupo dieta high-sugar
+S210421121692	N7.08	HSD-NR	Grupo dieta high-sugar
+S210421121693	N8.08	HSD-NR	Grupo dieta high-sugar
+S210421121694	N1.01	STD-NC	Grupo dieta padrão
+S210421121695	N3.01	STD-NC	Grupo dieta padrão
+S210421121696	N4.01	STD-NC	Grupo dieta padrão
+S210421121697	N4.02	STD-NC	Grupo dieta padrão
+S210421121698	N1.04	HSD-NC	Grupo dieta high-sugar
+S210421121711	N1.04	HSD-NC	Grupo dieta high-sugar
+S210421121699	N2.04	HSD-NC	Grupo dieta high-sugar
+S210421121700	N3.04	HSD-NC	Grupo dieta high-sugar
+S210421121701	N4.03	HSD-NC	Grupo dieta high-sugar
+S210421121702	N4.04	HSD-NC	Grupo dieta high-sugar
+S210421121703	N1.02	STD-NR	Grupo dieta padrão
+S210421121704	N1.03	STD-NR	Grupo dieta padrão
+S210421121713	N1.03	STD-NR	Grupo dieta padrão
+S210421121705	N2.02	STD-NR	Grupo dieta padrão
+S210421121714	N2.02	STD-NR	Grupo dieta padrão
+S210421121706	N2.03	STD-NR	Grupo dieta padrão
+S210421121707	N1.05	HSD-NR	Grupo dieta high-sugar
+S210421121708	N2.05	HSD-NR	Grupo dieta high-sugar
+S210421121709	N3.05	HSD-NR	Grupo dieta high-sugar
+S210421121710	N3.06	HSD-NR	Grupo dieta high-sugar

@@ -1,0 +1,35 @@
+Bacteria.Chloroflexi	1.81230658274			-
+Bacteria.Elusimicrobiota	1.60645611745			-
+Bacteria.Campilobacterota	2.68601398756			-
+Bacteria.Firmicutes.Clostridia	5.74603330564			-
+Archaea	1.89147658705			-
+Bacteria.Campilobacterota.Campylobacteria	2.68601398756			-
+Bacteria.Proteobacteria.Alphaproteobacteria	2.70235991995			-
+Bacteria.Proteobacteria.Gammaproteobacteria	4.36164091648			-
+Bacteria.Deferribacterota.Deferribacteres	1.83482062701			-
+Bacteria.Actinobacteriota	4.43467299349			-
+Bacteria	6.0			-
+Bacteria.Firmicutes	5.84705369413			-
+Bacteria.Actinobacteriota.Actinobacteria	4.20527275467			-
+Bacteria.Bacteroidota	5.51327460743			-
+Bacteria.Acidobacteriota	1.9883978418			-
+Bacteria.Acidobacteriota.Acidobacteriae	1.9883978418			-
+Bacteria.Elusimicrobiota.Elusimicrobia	1.60645611745			-
+Bacteria.Actinobacteriota.Coriobacteriia	4.04781958784			-
+Bacteria.Cyanobacteria	3.2307822369			-
+Bacteria.Patescibacteria.Saccharimonadia	3.91308416748			-
+Bacteria.Proteobacteria	4.37105520851			-
+Bacteria.Bacteroidota.Bacteroidia	5.51327460743			-
+Bacteria.Patescibacteria	3.91308416748			-
+Bacteria.Firmicutes.Negativicutes	3.10019893965			-
+Bacteria.Desulfobacterota	3.67998159654	HSD-NR	3.41462788705	0.0250461915402
+Bacteria.Desulfobacterota.Desulfovibrionia	3.67998159654	HSD-NR	3.41462781908	0.0250461915402
+Bacteria.Verrucomicrobiota	4.45613199369			-
+Archaea.Euryarchaeota.Methanobacteria	1.89147658705			-
+Bacteria.Firmicutes.Bacilli	5.16414687161			-
+Bacteria.Cyanobacteria.Vampirivibrionia	3.2307822369			-
+Archaea.Euryarchaeota	1.89147658705			-
+Bacteria.Verrucomicrobiota.Verrucomicrobiae	4.45613199369			-
+Bacteria.Deferribacterota	1.83482062701			-
+Bacteria.Cyanobacteria.Cyanobacteriia	1.81230658274			-
+Bacteria.Chloroflexi.Anaerolineae	1.81230658274			-

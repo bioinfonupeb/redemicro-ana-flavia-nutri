@@ -15,14 +15,15 @@ BASEURL="https://raw.githubusercontent.com/lauromoraes/microbiom/main/nb-templat
 
 # Define pipeline steps
 STEPS=(
-#	"step-prepare-data"
-#	"step-quality-control"
-#	"step-rarefaction-analysis"
-#	"step-metataxonomy"
-        "step-diversity-analysis"
-#        "step-abundance-analysis"
-#        "step-picrust2-analysis"
-	);
+#    "step-prepare-data"
+#    "step-quality-control"
+#    "step-rarefaction-analysis"
+#    "step-metataxonomy"
+#    "step-diversity-analysis"
+#    "step-abundance-analysis"
+    "step-lefse-analysis"
+#    "step-picrust2-analysis"
+    );
 
 STEPSDIR="nb-templates"
 if ! [ -d "$STEPSDIR" ]; then
@@ -42,21 +43,23 @@ if ! [ -d "$EXECUTEDDIR" ]; then
   mkdir -p ${EXECUTEDDIR};
 fi
 
-# # Download utils.py file
-# if ! [ -f "${STEPSDIR}/utils.py" ]; then
-# 	echo "Downloading: ${STEPSDIR}/utils.py";
-# 	wget "${BASEURL}/utils.py" -O "${STEPSDIR}/utils.py";
-# 	cp "${BASEURL}/utils.py" "${EXECUTEDDIR}/utils.py"
-# 	cp "${BASEURL}/utils.py" "."
-# fi
+# Download utils.py file
+if ! [ -f "${STEPSDIR}/utils.py" ]; then
+  echo "Downloading: ${STEPSDIR}/utils.py";
+  wget "${BASEURL}/utils.py" -O "${STEPSDIR}/utils.py";
+  cp "${BASEURL}/utils.py" "${EXECUTEDDIR}/utils.py"
+  cp "${BASEURL}/utils.py" "."
+fi
 
 
 
 echo "Processing parameters from: ${MYPARAMS}";
 
 # Activate virtual environment with all dependences
-source ~/anaconda3/etc/profile.d/conda.sh;
+conda init bash
+source /opt/anaconda3/etc/profile.d/conda.sh;
 conda activate ${ENV};
+qiime dev refresh-cache;
 
 # Execute each step
 for i in "${!STEPS[@]}"; do
@@ -69,12 +72,12 @@ for i in "${!STEPS[@]}"; do
 	# Download notebook if it not exists
 	if ! [ -f "$STEPFILE" ]; then
 		echo "... Downloading file: ${STEPFILE} ...";
-		wget "${BASEURL}/${STEPS[i]}.ipynb" -O ${STEPFILE};
+		wget "${BASEURL}/${STEPS[i]}.ipynb" -O "${STEPSDIR}/${STEPS[i]}.ipynb";
 	fi
 
 	# Execute notebook
 	echo ">>> Executing STEP file: ${STEPFILE} <<<";
-	papermill --execution-timeout 666 --inject-input-path ${STEPFILE} --inject-output-path ${EXECUTEDFILE} -f ${MYPARAMS};
+	papermill "${STEPFILE}" "${EXECUTEDFILE}" -f "${MYPARAMS}";
 done
 
 # Deactivate the virtual environment

@@ -1,0 +1,10 @@
+Bacteria.Patescibacteria	2.13062678843			-
+Bacteria.Actinobacteriota	3.10311796018			-
+Bacteria.Cyanobacteria	2.83785824058			-
+Bacteria.Firmicutes	4.94533776273			-
+Bacteria.Bacteroidota	5.59532707477			-
+Bacteria.Campilobacterota	0.58423514424			-
+Bacteria.Proteobacteria	3.96683313005			-
+Bacteria.Deferribacterota	1.88927744376			-
+Bacteria.Verrucomicrobiota	4.37281191715			-
+Bacteria	5.69897000434			-

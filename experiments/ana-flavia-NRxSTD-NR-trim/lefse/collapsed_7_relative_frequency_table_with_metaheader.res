@@ -1,0 +1,424 @@
+Bacteria.Firmicutes.Bacilli.Acholeplasmatales	2.43829973579			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	3.15063572854			-
+Bacteria.Cyanobacteria.Vampirivibrionia.Gastranaerophilales.Gastranaerophilales	3.23382522651			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.uncultured.uncultured_bacterium	2.18096055754			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_UCG_006	2.85035224892			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_UCG_001	2.74284294484			-
+Bacteria.Actinobacteriota.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium.Bifidobacterium_animalis	3.08846125146			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotellaceae_Ga6A1_group.uncultured_bacterium	3.46541137322			-
+Archaea.Euryarchaeota.Methanobacteria.Methanobacteriales	1.89149928323			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Marinifilaceae.Odoribacter	1.24969947377			-
+Bacteria.Verrucomicrobiota.Verrucomicrobiae.Verrucomicrobiales.Akkermansiaceae.Akkermansia	4.43503488899			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.UCG_005.uncultured_rumen	1.52857137082			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae.Bacillus	1.05710462742			-
+Bacteria.Firmicutes.Clostridia.Christensenellales.Christensenellaceae.Christensenellaceae_R_7_group.uncultured_prokaryote	2.70767549868			-
+Bacteria.Firmicutes.Negativicutes.Veillonellales_Selenomonadales.Veillonellaceae	1.9843044692			-
+Bacteria.Firmicutes.Clostridia.Clostridia.Hungateiclostridiaceae	1.43123200886			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Anaerofilum	1.33210621068			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	5.06754968173			-
+Bacteria.Actinobacteriota.Actinobacteria.Bifidobacteriales	3.08846125146			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.UCG_003.uncultured_bacterium	2.21206961078			-
+Bacteria.Desulfobacterota.Desulfovibrionia	3.00793277746			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Faecalibaculum	2.35093939757			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Marinifilaceae	1.83201711661			-
+Bacteria.Cyanobacteria.Vampirivibrionia	3.23382522651			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Incertae_Sedis	2.19591279305			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Muribaculaceae.Muribaculaceae	4.94330402144			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Frisingicoccus	2.55344867043			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales	2.6684969484			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.UCG_007	1.74185998965			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae.Acinetobacter	2.48077958159			-
+Bacteria.Firmicutes.Clostridia.Clostridia_vadinBB60_group	2.91757812071			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelatoclostridiaceae.UCG_004	2.13283467303			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.Colidextribacter	3.00208600045	NR	3.33962998183	0.0230068027004
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Tannerellaceae	4.07003638185			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae.Family_XIII_UCG_001.uncultured_bacterium	2.30599151916			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Muribaculaceae	5.67345807512			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	2.47841770808			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Muribaculaceae.Muribaculaceae.uncultured_Bacteroidales	3.80968551921			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Defluviitaleaceae.Defluviitaleaceae_UCG_011	1.88864619734			-
+Bacteria.Actinobacteriota.Actinobacteria.Corynebacteriales	1.87195632617			-
+Bacteria.Verrucomicrobiota	4.43503488899			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Tuzzerella	1.90387306273			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Candidatus_Soleaferrea	1.87263297888			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.UCG_007.uncultured_bacterium	1.74185998965			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Muribaculaceae.Muribaculaceae.uncultured_Barnesiella	3.21725559881			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales	5.8963814934	NR	5.2794932085	0.0118293801095
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.Intestinimonas.Intestinimonas_butyriciproducens	0.952104969451			-
+Bacteria.Cyanobacteria	3.23382522651			-
+Bacteria.Firmicutes.Bacilli.Izemoplasmatales	1.52857137082			-
+Bacteria.Firmicutes.Clostridia.Peptococcales	3.22413582863			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Hungatella	3.31320293664			-
+Bacteria.Firmicutes.Bacilli.Staphylococcales.Staphylococcaceae.Jeotgalicoccus	2.28877961593	NR	3.98393362514	0.0252065695531
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.UBA1819	2.0438729405			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Anaerofilum.uncultured_bacterium	1.33210621068			-
+Bacteria.Firmicutes.Clostridia.Clostridia_UCG_014.Clostridia_UCG_014.Clostridia_UCG_014.uncultured_bacterium	3.84687645481	STD-NR	3.56519656027	0.0462003563185
+Bacteria.Firmicutes.Clostridia.Oscillospirales.UCG_010	3.03399049659			-
+Bacteria.Firmicutes.Negativicutes.Veillonellales_Selenomonadales.Selenomonadaceae	3.06560132413			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.UCG_010.UCG_010.unidentified	2.62470868556			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales.Mitochondria	1.18614748359			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae.Sphingomonas	0.974130392357			-
+Bacteria.Elusimicrobiota	1.60647384125			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	2.97260679367			-
+Bacteria.Firmicutes.Bacilli.Izemoplasmatales.Izemoplasmatales	1.52857137082			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae.Pseudomonas	2.97260679367			-
+Bacteria.Firmicutes.Clostridia.uncultured.uncultured.uncultured.uncultured_bacterium	2.41293145088			-
+Bacteria.Actinobacteriota.Actinobacteria.Micrococcales.Micrococcaceae	2.47875847091			-
+Bacteria.Actinobacteriota	3.77376023804			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales	3.69508203675			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Ruminococcus	4.01835504598			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.ASF356	1.33668584459			-
+Bacteria.Firmicutes.Clostridia.Christensenellales	4.42846623411			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotellaceae_Ga6A1_group	3.46541137322			-
+Bacteria.Patescibacteria.Saccharimonadia.Saccharimonadales.Saccharimonadaceae.Candidatus_Saccharimonas.uncultured_bacterium	3.79854736717			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	4.27273408029			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	3.13466055604	NR	2.92013590026	0.0387866769723
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae	2.89906066114			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Anaerostipes.Anaerostipes_sp_	1.05886331851			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_UCG_001.unidentified	2.8991901457			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Burkholderiaceae	2.956124004			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacterales.Morganellaceae.Proteus	1.53188856607			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Eisenbergiella	2.43782639593			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.uncultured._Clostridium__leptum	2.5039124369			-
+Bacteria.Desulfobacterota.Desulfovibrionia.Desulfovibrionales.Desulfovibrionaceae	3.00793277746			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	3.09391546152			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Butyricicoccaceae.UCG_008	2.44181294917			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Butyricicoccaceae.UCG_009	2.49570217995			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae	2.10141192796			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus.Lactobacillus_intestinalis	3.83519017502			-
+Bacteria.Firmicutes.Clostridia.Monoglobales.Monoglobaceae.Monoglobus.uncultured_rumen	2.92376684083			-
+Bacteria.Actinobacteriota.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium	1.87195632617			-
+Bacteria.Deferribacterota.Deferribacteres	1.24413943057			-
+Bacteria.Deferribacterota.Deferribacteres.Deferribacterales.Deferribacteraceae.Mucispirillum.Mucispirillum_schaedleri	1.24413943057			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnoclostridium.Extibacter_muris	2.23540619815			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_NK4A136_group.uncultured_bacterium	2.71530794142			-
+Bacteria.Verrucomicrobiota.Verrucomicrobiae.Verrucomicrobiales	4.43503488899			-
+Bacteria.Firmicutes.Negativicutes.Veillonellales_Selenomonadales.Selenomonadaceae.Quinella	3.06560132413			-
+Bacteria.Cyanobacteria.Vampirivibrionia.Gastranaerophilales.Gastranaerophilales.Gastranaerophilales.Acinetobacter_sp_	2.42588522213			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Butyricicoccaceae.Butyricicoccus.bacterium_NLAE_zl_H60	2.61799851499			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Blautia	3.51162079544			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.NK4A214_group.unidentified	2.84827041026			-
+Bacteria.Deferribacterota.Deferribacteres.Deferribacterales.Deferribacteraceae	1.24413943057			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.UCG_003	2.21206961078			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.UCG_005	2.48472478482			-
+Bacteria.Firmicutes.Clostridia.Christensenellales.Christensenellaceae.uncultured.uncultured_bacterium	1.62987524265			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae	2.63853063372			-
+Bacteria.Firmicutes.Bacilli.RF39	3.84062170191	STD-NR	3.59153726215	0.0230068027004
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Rikenellaceae.Rikenella.uncultured_bacterium	1.7888509351			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes.Alistipes_finegoldii	2.87735259748			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Tyzzerella	1.33266847975			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.uncultured.uncultured	2.4450992521			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Peptostreptococcaceae.Romboutsia	4.10438003203			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	1.98183840524	NR	3.75472791447	0.0252065695531
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Roseburia	3.40926522282			-
+Bacteria.Firmicutes.Clostridia.Peptococcales.Peptococcaceae.Peptococcus	1.33561296262			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Roseburia.uncultured_bacterium	2.7369967589			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae.Family_XIII_AD3011_group.uncultured_bacterium	1.93908238189			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Butyricicoccaceae.UCG_009.uncultured_organism	1.24774476125			-
+Bacteria.Proteobacteria	4.14383713507			-
+Bacteria.Bacteroidota.Bacteroidia	5.8963814934	NR	5.2794932085	0.0118293801095
+Bacteria.Firmicutes.Clostridia.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group.unidentified	1.76945695802			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	2.24203031442			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Dubosiella.uncultured_bacterium	4.06332429981			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Harryflintia.uncultured_bacterium	2.39517145559			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales	3.66587338885			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae.Allorhizobium_Neorhizobium_Pararhizobium_Rhizobium	2.22053808293			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides.Bacteroides_caecimuris	3.85099984611			-
+Bacteria.Firmicutes.Bacilli.Acholeplasmatales.Acholeplasmataceae.Anaeroplasma.uncultured_bacterium	2.43829973579			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.uncultured.uncultured_Allobaculum	3.08139040055			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.UCG_005.uncultured_Clostridiales	2.2781150718			-
+Bacteria.Firmicutes.Clostridia.Clostridia_UCG_014.Clostridia_UCG_014	4.94486201248	STD-NR	4.62635130908	0.0183281257228
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.Flavonifractor	2.0408315334			-
+Bacteria.Deferribacterota.Deferribacteres.Deferribacterales.Deferribacteraceae.Mucispirillum	1.24413943057			-
+Bacteria.Firmicutes.Bacilli.RF39.RF39	3.84062170191	STD-NR	3.59215386779	0.0230068027004
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Alcaligenaceae.Achromobacter	1.60919064379			-
+Bacteria.Elusimicrobiota.Elusimicrobia.Elusimicrobiales	1.60647384125			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Turicibacter.uncultured_bacterium	4.10298267756	STD-NR	3.76441646775	0.0462003563185
+Bacteria.Firmicutes.Clostridia.Christensenellales.Christensenellaceae.Christensenellaceae_R_7_group.bacterium_YE57	1.82422679313			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae.Family_XIII_UCG_001	2.30599151916			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Butyricicoccaceae	3.02402706379			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales._Eubacterium__coprostanoligenes_group._Eubacterium__coprostanoligenes_group.uncultured_Clostridium	2.56600331731			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Butyricicoccaceae.Butyricicoccus.uncultured_bacterium	2.26283911641			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Pygmaiobacter	2.00551946332			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_NK4A136_group.Trichinella_pseudospiralis	3.76887255569			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.uncultured	3.87428917373			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Paludicola	1.74758962401			-
+Bacteria.Firmicutes.Clostridia.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group.uncultured_bacterium	2.8410426932			-
+Bacteria.Patescibacteria	3.79854736717			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.Papillibacter.uncultured_bacterium	3.04005298926			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.UCG_010.UCG_010	2.62732298367			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Bacteroidaceae	5.29150028372	NR	4.95181451324	0.00726839996268
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides.Bacteroides_fragilis	5.2319729451	NR	4.9124157212	0.00381556895664
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Incertae_Sedis.uncultured_Clostridiales	2.42219234135			-
+Bacteria.Proteobacteria.Alphaproteobacteria	2.77949575053			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Candidatus_Soleaferrea.Ruminococcaceae_bacterium	1.87263297888			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.UCG_010.UCG_010.uncultured_bacterium	1.91809021779			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Ruminococcus.uncultured_Ruminococcus	3.40829454164			-
+Bacteria.Firmicutes.Clostridia.uncultured	2.41293145088			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.UCG_010.UCG_010.uncultured_rumen	0.89949677406			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae.Rodentibacter	2.6684969484			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.uncultured.uncultured.unidentified_rumen	1.11843639122			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	0.994261957349			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae.Acinetobacter.Acinetobacter_ursingii	1.21611070696			-
+Archaea	1.89149928323			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Marvinbryantia	2.72966717722			-
+Bacteria.Campilobacterota.Campylobacteria	2.26590920721			-
+Bacteria.Patescibacteria.Saccharimonadia.Saccharimonadales.Saccharimonadaceae	3.79854736717			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Pygmaiobacter.uncultured_bacterium	2.00551946332			-
+Bacteria.Firmicutes	5.73930461258	STD-NR	5.28383810452	0.0118293801095
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Alcaligenaceae.Alcaligenes	0.833224024133			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales	5.06449315548	STD-NR	4.59963512562	0.0118293801095
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Atopobiaceae	2.87599577162			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.Intestinimonas.uncultured_bacterium	1.25235333187			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelatoclostridiaceae	3.01123157582			-
+Bacteria.Firmicutes.Bacilli.Acholeplasmatales.Acholeplasmataceae.Anaeroplasma	2.43829973579			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_UCG_010.uncultured_bacterium	1.37628373036			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.uncultured	1.48510567704			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Sutterellaceae.Parasutterella	3.36701617681			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Dubosiella	4.06332429981			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales	0.994261957349			-
+Bacteria.Firmicutes.Clostridia.Clostridia	1.43123200886			-
+Bacteria.Bacteroidota	5.8963814934	NR	5.2794932085	0.0118293801095
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae._Eubacterium__hallii_group	2.41158800701	NR	3.37297491423	0.0252065695531
+Bacteria.Firmicutes.Negativicutes	3.10020105664			-
+Bacteria.Verrucomicrobiota.Verrucomicrobiae	4.43503488899			-
+Bacteria.Actinobacteriota.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	3.08846125146			-
+Bacteria.Firmicutes.Clostridia.Monoglobales.Monoglobaceae.Monoglobus.uncultured_bacterium	2.15476927916			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Faecalitalea	1.1342540198			-
+Bacteria.Campilobacterota.Campylobacteria.Campylobacterales.Helicobacteraceae	2.26590920721			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales._Eubacterium__coprostanoligenes_group._Eubacterium__coprostanoligenes_group	4.60163739333			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotellaceae_UCG_001.uncultured_bacterium	4.79230847853	NR	4.42414353656	0.00737116774696
+Bacteria.Firmicutes.Clostridia.Peptococcales.Peptococcaceae.uncultured.unidentified	3.19607499847			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacterales.Enterobacteriaceae.Escherichia_Shigella	3.82134871379			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae.Cuneatibacter_caecimuris	1.57535425985			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	4.25444700705			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae._Clostridium__innocuum_group	2.54612900518			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_UCG_006.uncultured_bacterium	2.85035224892			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.UBA1819.uncultured_organism	2.92121011651			-
+Bacteria.Actinobacteriota.Actinobacteria	3.11611715094			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.uncultured	3.01068356852			-
+Bacteria.Firmicutes.Clostridia.uncultured.uncultured	2.41293145088			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae	3.68983661017	STD-NR	3.37211146736	0.0183281257228
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.DTU089	1.14903994886			-
+Bacteria.Firmicutes.Clostridia.Eubacteriales.Eubacteriaceae	1.11843639122			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.Oscillibacter	2.36471456819			-
+Bacteria.Firmicutes.Clostridia.Clostridia_UCG_014.Clostridia_UCG_014.Clostridia_UCG_014.unidentified_rumen	2.56284427926			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_FCS020_group	1.52953364535			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae	4.69439231618			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Peptostreptococcaceae	4.10438003203			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Holdemania	2.31130783044			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	4.02486150262	STD-NR	3.68069581131	0.0462003563185
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.Oscillibacter.uncultured_bacterium	2.9917604364			-
+Bacteria.Patescibacteria.Saccharimonadia.Saccharimonadales	3.79854736717			-
+Bacteria.Firmicutes.Bacilli.RF39.RF39.RF39.uncultured_bacterium	3.62209974244	STD-NR	3.44437886884	0.0235941234858
+Bacteria.Firmicutes.Clostridia.Clostridia_UCG_014.Clostridia_UCG_014.Clostridia_UCG_014.uncultured_Clostridiales	3.0868061276			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.UCG_005.uncultured_bacterium	3.30927574399			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Adlercreutzia.uncultured_bacterium	2.76644191567			-
+Bacteria.Firmicutes.Clostridia.Christensenellales.Christensenellaceae.uncultured	1.62987524265			-
+Bacteria.Campilobacterota.Campylobacteria.Campylobacterales.Helicobacteraceae.Helicobacter	2.19536121577			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes.uncultured_bacterium	3.3243360096			-
+Bacteria.Desulfobacterota.Desulfovibrionia.Desulfovibrionales.Desulfovibrionaceae.Desulfovibrio	2.78797800844			-
+Bacteria.Cyanobacteria.Vampirivibrionia.Gastranaerophilales.Gastranaerophilales.Gastranaerophilales.uncultured_bacterium	2.84739717484			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes.Alistipes_timonensis	2.46918131797			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.Intestinimonas	1.25235333187			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotellaceae_UCG_003	4.25235988477			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotellaceae_UCG_001	4.79230847853	NR	4.42414353656	0.00737116774696
+Bacteria.Proteobacteria.Gammaproteobacteria	4.12465040464			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Rikenellaceae	3.51961528915			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Butyricicoccaceae.UCG_009.uncultured_bacterium	2.47044443576			-
+Bacteria.Firmicutes.Clostridia.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group	1.80683243052			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	2.31959095261			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_NK4A136_group	4.3498645721			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Anaerostipes	2.44533059096			-
+Bacteria.Firmicutes.Clostridia.Christensenellales.Christensenellaceae	4.42846623411			-
+Bacteria.Actinobacteriota.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	1.64568476992			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Allobaculum	2.87136451321			-
+Bacteria.Desulfobacterota	3.00793277746			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.uncultured.uncultured	3.01068356852			-
+Bacteria.Firmicutes.Clostridia.Christensenellales.Christensenellaceae.Christensenellaceae_R_7_group	4.41831746652			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales	4.45423476358			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotellaceae_NK3B31_group	4.63906225047			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Tannerellaceae.Parabacteroides	3.01278704057			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Enterorhabdus.uncultured_bacterium	3.33661761318			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Parvibacter.uncultured_bacterium	2.01056829889			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelatoclostridiaceae.Erysipelatoclostridiaceae	0.507382071755			-
+Bacteria.Firmicutes.Bacilli.Izemoplasmatales.Izemoplasmatales.Izemoplasmatales.gut_metagenome	1.52857137082			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae._Eubacterium__xylanophilum_group.uncultured_bacterium	3.89259567406			-
+Bacteria.Firmicutes.Bacilli.Izemoplasmatales.Izemoplasmatales.Izemoplasmatales	1.52857137082			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Sutterellaceae	3.36701617681			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Allobaculum.uncultured_bacterium	2.22557648961			-
+Bacteria.Campilobacterota.Campylobacteria.Campylobacterales	2.26590920721			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae.Anaerovorax	1.27255671796			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae._Eubacterium__siraeum_group.uncultured_bacterium	3.4724526531			-
+Bacteria.Firmicutes.Negativicutes.Veillonellales_Selenomonadales.Selenomonadaceae.Quinella.uncultured_bacterium	3.06560132413			-
+Bacteria.Firmicutes.Bacilli.Staphylococcales	2.74696732468	NR	3.21783678776	0.0144945031748
+Bacteria.Firmicutes.Bacilli.Staphylococcales.Staphylococcaceae	2.74696732468	NR	3.21797944728	0.0144945031748
+Archaea.Euryarchaeota.Methanobacteria.Methanobacteriales.Methanobacteriaceae.Methanosphaera.uncultured_archaeon	1.89149928323			-
+Bacteria.Deferribacterota.Deferribacteres.Deferribacterales	1.24413943057			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	2.48077958159			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	0.974130392357			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Muribaculaceae.Muribaculaceae.uncultured_organism	2.58727348188			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Acetatifactor	1.68347333081			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales.Mitochondria.Mitochondria	1.18614748359			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.uncultured.uncultured.uncultured_bacterium	3.01068356852			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales._Eubacterium__coprostanoligenes_group._Eubacterium__coprostanoligenes_group.uncultured_bacterium	3.8819082388			-
+Bacteria.Firmicutes.Bacilli.Acholeplasmatales.Acholeplasmataceae	2.43829973579			-
+Bacteria.Elusimicrobiota.Elusimicrobia.Elusimicrobiales.Elusimicrobiaceae.Elusimicrobium	1.60647384125			-
+Bacteria.Elusimicrobiota.Elusimicrobia.Elusimicrobiales.Elusimicrobiaceae.Elusimicrobium.uncultured_bacterium	1.60647384125			-
+Bacteria.Firmicutes.Clostridia.Peptococcales.Peptococcaceae	3.22413582863			-
+Bacteria.Firmicutes.Bacilli.RF39.RF39.RF39.unidentified	2.13413135134			-
+Bacteria.Firmicutes.Clostridia.Clostridia_UCG_014.Clostridia_UCG_014.Clostridia_UCG_014	4.78924332477	STD-NR	4.45602784976	0.0183281257228
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Atopobiaceae.Coriobacteriaceae_UCG_002	2.87599577162			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.uncultured.uncultured_bacterium	1.59551816046			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Paludicola.uncultured_bacterium	1.63369847541			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Butyricicoccaceae.UCG_008.uncultured_bacterium	2.44181294917			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Marinifilaceae.Butyricimonas	1.70029299646			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae._Bacteroides__pectinophilus_group	3.03242189133			-
+Bacteria.Desulfobacterota.Desulfovibrionia.Desulfovibrionales.Desulfovibrionaceae.uncultured	2.60713622023			-
+Bacteria.Firmicutes.Clostridia.Monoglobales.Monoglobaceae.Monoglobus	3.89593548366			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Incertae_Sedis.Clostridium_sp_	2.78587464308			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Defluviitaleaceae	2.2779410895			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.UBA1819.uncultured_bacterium	2.93142199892			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Eggerthellaceae	3.53812704692			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	1.05476731135			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae._Eubacterium__ruminantium_group	4.14663051197			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Comamonadaceae.Comamonas	2.37025724025			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Alcaligenaceae	1.60919064379			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Robinsoniella	1.22317174174			-
+Bacteria.Deferribacterota	1.24413943057			-
+Bacteria.Firmicutes.Bacilli	3.90744608187			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae._Eubacterium__nodatum_group	2.4132342429			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	0.974130392357			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Atopobiaceae.Coriobacteriaceae_UCG_002.uncultured_bacterium	2.87599577162			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Muribaculaceae.Muribaculum.uncultured_bacterium	3.99325489752	NR	3.67354274207	0.00381556895664
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Faecalibaculum.uncultured_bacterium	2.35093939757			-
+Bacteria.Firmicutes.Clostridia.Clostridiales	4.02486150262	STD-NR	3.67967735856	0.0462003563185
+Bacteria.Firmicutes.Negativicutes.Veillonellales_Selenomonadales	3.10020105664			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Coprococcus	2.90467389892			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.uncultured	1.90532208043			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_NC2004_group.uncultured_Clostridiaceae	1.47639888324			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus.Streptococcus_hyointestinalis	2.31950273632			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Burkholderiaceae.Burkholderia_Caballeronia_Paraburkholderia	2.956124004			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Incertae_Sedis.uncultured_bacterium	3.78075793595			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.uncultured.uncultured_bacterium	2.32000287543			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales	5.03526720247			-
+Bacteria.Firmicutes.Clostridia.Peptococcales.Peptococcaceae.uncultured	1.1342540198			-
+Bacteria.Actinobacteriota.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium.Corynebacterium_stationis	1.87195632617			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.uncultured.Clostridium_sp_	1.88232212007			-
+Archaea.Euryarchaeota.Methanobacteria	1.89149928323			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Subdoligranulum	0.841504827083			-
+Bacteria.Elusimicrobiota.Elusimicrobia.Elusimicrobiales.Elusimicrobiaceae	1.60647384125			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Harryflintia	2.39517145559			-
+Bacteria.Actinobacteriota.Actinobacteria.Corynebacteriales.Corynebacteriaceae	1.87195632617			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Adlercreutzia	2.84361837319			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Ruminococcaceae	2.29287247889			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae.Microvirga	2.10141192796			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae._Eubacterium__brachy_group.uncultured_bacterium	2.42040311806			-
+Bacteria.Firmicutes.Negativicutes.Veillonellales_Selenomonadales.Veillonellaceae.Veillonella	1.9843044692			-
+Bacteria.Firmicutes.Clostridia.Peptococcales.Peptococcaceae.uncultured.uncultured_bacterium	1.91999313547			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae.Brevundimonas	0.994261957349			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae._Eubacterium__hallii_group.Clostridium_sp_	2.41158800701	NR	3.40480105401	0.0252065695531
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	2.4450992521			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus.Streptococcus_agalactiae	1.70833387194			-
+Bacteria.Actinobacteriota.Actinobacteria.Micrococcales.Micrococcaceae.Rothia	2.47875847091			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae._Eubacterium__ruminantium_group.uncultured_bacterium	4.14663051197			-
+Bacteria.Firmicutes.Bacilli.RF39.RF39.RF39.uncultured_Lachnospiraceae	2.5230064663			-
+Bacteria.Firmicutes.Clostridia.Eubacteriales.Eubacteriaceae.Eubacterium	1.11843639122			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides.Bacteroides_sartorii	3.53454713263			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Defluviitaleaceae.Defluviitaleaceae_UCG_011.uncultured_bacterium	2.05104176609			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelatoclostridiaceae.UCG_004.uncultured_bacterium	2.13283467303			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_NC2004_group	1.47639888324			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae.Turicibacter	4.10298267756	STD-NR	3.76387465723	0.0462003563185
+Bacteria.Firmicutes.Bacilli.Staphylococcales.Staphylococcaceae.Staphylococcus	2.56109048199	NR	3.31647674541	0.0144945031748
+Bacteria.Firmicutes.Bacilli.RF39.RF39.RF39	3.35596958593	STD-NR	3.09926604643	0.0235941234858
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae_UCG_010	1.37628373036			-
+Bacteria.Firmicutes.Bacilli.Bacillales	1.05710462742			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae.Aerococcus	1.98183840524	NR	3.755690272	0.0252065695531
+Bacteria.Firmicutes.Clostridia.Monoglobales	3.95305023422			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae._Bacteroides__pectinophilus_group.uncultured_bacterium	3.03242189133			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	1.18614748359			-
+Bacteria.Firmicutes.Clostridia.Monoglobales.Monoglobaceae.Monoglobus.unidentified	2.52008363847			-
+Bacteria.Actinobacteriota.Actinobacteria.Micrococcales	2.47875847091			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotellaceae_UCG_003.uncultured_bacterium	4.25235988477			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.NK4A214_group	3.24248012688			-
+Bacteria.Campilobacterota	2.26590920721			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium_sensu_stricto_1	4.02486150262	STD-NR	3.68026802313	0.0462003563185
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotellaceae_NK3B31_group.uncultured_bacterium	4.63906225047			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales	4.11409693324			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Ruminococcus.Clostridium_islandicum	1.85837387927			-
+Bacteria.Cyanobacteria.Vampirivibrionia.Gastranaerophilales	3.23382522651			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Parvibacter	2.01056829889			-
+Bacteria.Actinobacteriota.Coriobacteriia	3.66587338885			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales	5.11344909738			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelatoclostridiaceae.Erysipelatoclostridium	2.20182803821			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.uncultured.uncultured.Azospirillum_sp_	1.62574817067			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae._Eubacterium__ventriosum_group	1.05886331851			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnoclostridium	3.42388056303	STD-NR	3.26190010608	0.0462003563185
+Archaea.Euryarchaeota.Methanobacteria.Methanobacteriales.Methanobacteriaceae	1.89149928323			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Marinifilaceae.Odoribacter.uncultured_bacterium	1.24969947377			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales._Eubacterium__coprostanoligenes_group._Eubacterium__coprostanoligenes_group.Clostridiales_bacterium	3.03203661486			-
+Bacteria.Cyanobacteria.Vampirivibrionia.Gastranaerophilales.Gastranaerophilales.Gastranaerophilales	2.60780095263			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacterales.Enterobacteriaceae	3.82134871379			-
+Bacteria.Elusimicrobiota.Elusimicrobia	1.60647384125			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	2.6684969484			-
+Bacteria.Cyanobacteria.Vampirivibrionia.Gastranaerophilales.Gastranaerophilales.Gastranaerophilales.uncultured_rumen	2.52842042773			-
+Bacteria.Firmicutes.Clostridia.Monoglobales.Monoglobaceae	3.95305023422			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.UCG_010.UCG_010.uncultured_organism	2.16224441176			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	5.11042887248			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnospiraceae	1.57535425985			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae._Eubacterium__xylanophilum_group	3.64344889839			-
+Archaea.Euryarchaeota.Methanobacteria.Methanobacteriales.Methanobacteriaceae.Methanosphaera	1.89149928323			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.GCA_900066575.uncultured_bacterium	2.5659944973			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae.Anaerovorax.uncultured_bacterium	2.20078899731			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae.uncultured	0.925825712783			-
+Bacteria.Firmicutes.Clostridia	5.57258204123	STD-NR	5.11828807546	0.0118293801095
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.GCA_900066575	2.5659944973			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.uncultured.uncultured.uncultured_bacterium	2.3488853126			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelotrichaceae	4.43828584732			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Enterorhabdus	3.33661761318			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Muribaculaceae.Muribaculum	3.99325489752	NR	3.67112685634	0.00381556895664
+Bacteria.Desulfobacterota.Desulfovibrionia.Desulfovibrionales.Desulfovibrionaceae.uncultured.uncultured_bacterium	2.60713622023			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Comamonadaceae	3.33392693664			-
+Bacteria.Firmicutes.Clostridia.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group.gut_metagenome	0.889957062702			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales._Eubacterium__coprostanoligenes_group	4.690417284	STD-NR	4.34976852125	0.018532974877
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelatoclostridiaceae.Erysipelatoclostridiaceae.uncultured_bacterium	0.507382071755			-
+Bacteria.Firmicutes.Clostridia.uncultured.uncultured.uncultured	2.41293145088			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Muribaculaceae.Muribaculaceae.uncultured_bacterium	5.56515700271			-
+Bacteria.Firmicutes.Clostridia.Clostridia_UCG_014	4.94486201248	STD-NR	4.62640788953	0.0183281257228
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae._Eubacterium__siraeum_group	3.4724526531			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Fournierella	3.05558119469			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelatoclostridiaceae.Erysipelatoclostridium.uncultured_bacterium	2.51158639305			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacterales.Morganellaceae	1.53188856607			-
+Bacteria.Firmicutes.Clostridia.Peptococcales.Peptococcaceae.Peptococcus.uncultured_bacterium	1.33561296262			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Tannerellaceae.Parabacteroides.Parabacteroides_goldsteinii	4.07003638185			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae.Enterococcus	1.05476731135			-
+Bacteria.Firmicutes.Clostridia.Eubacteriales	1.11843639122			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales.Erysipelatoclostridiaceae.Coprobacillus	2.67088336714			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.uncultured	2.4450992521			-
+Bacteria.Desulfobacterota.Desulfovibrionia.Desulfovibrionales	3.00793277746			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Blautia.Lachnospiraceae_bacterium	3.20114968292	NR	3.23411659768	0.0372894493168
+Archaea.Euryarchaeota	1.89149928323			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae.Papillibacter	3.04005298926			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Rikenellaceae.Rikenella	1.7888509351			-
+Bacteria.Verrucomicrobiota.Verrucomicrobiae.Verrucomicrobiales.Akkermansiaceae	4.43503488899			-
+Bacteria.Firmicutes.Clostridia.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group	2.91757812071			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Butyricicoccaceae.Butyricicoccus	2.66949778799			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae.Family_XIII_AD3011_group	1.16058295852			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Lachnoclostridium._Clostridium__aldenense	3.60351221853			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Ruminococcaceae.uncultured_bacterium	2.29287247889			-
+Bacteria.Firmicutes.Clostridia.Clostridia_UCG_014.Clostridia_UCG_014.Clostridia_UCG_014.unidentified	4.25307844233	STD-NR	3.98248264776	0.0235941234858
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae._Eubacterium__brachy_group	2.42040311806			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.Ruminococcus.unidentified	3.77331510196	STD-NR	3.54135287027	0.0235941234858
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Ruminococcaceae.uncultured	2.02316273787			-
+Bacteria.Patescibacteria.Saccharimonadia.Saccharimonadales.Saccharimonadaceae.Candidatus_Saccharimonas	3.79854736717			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus.Lactobacillus_faecis	4.57440349592			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales.Lachnospiraceae.Tuzzerella.uncultured_bacterium	1.90387306273			-
+Bacteria.Patescibacteria.Saccharimonadia	3.79854736717			-
+Bacteria.Campilobacterota.Campylobacteria.Campylobacterales.Helicobacteraceae.Helicobacter.Helicobacter_rodentium	1.44181294917			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales.Oscillospiraceae	4.18956732298			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	1.05710462742			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacterales	3.82357310665			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales.Comamonadaceae.Delftia	3.28393855327			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales.Anaerovoracaceae.Family_XIII_AD3011_group.uncultured_organism	1.27516038802			-
+Bacteria.Firmicutes.Clostridia.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group.Clostridia_vadinBB60_group.uncultured_Clostridia	1.98999026948			-
+Bacteria	6.0			-

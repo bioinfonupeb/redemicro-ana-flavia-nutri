@@ -1,0 +1,17 @@
+base_dir: /mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri
+class_col: group-id
+classifier_file: /mnt/nupeb/rede-micro/datasets/16S_classifiers_qiime2/silva-138-99-nb-classifier.qza
+experiment_name: ana-flavia-all
+manifest_file: /mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/manifest-all-ana.csv
+metadata_file: /mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/metadata-all-ana.tsv
+overlap: 12
+phred: 20
+replace_files: false
+threads: 6
+top_n: 20
+trim:
+  forward_primer: CCTACGGGRSGCAGCAG
+  overlap: 8
+  reverse_primer: GGACTACHVGGGTWTCTAAT
+trunc_f: 0
+trunc_r: 0

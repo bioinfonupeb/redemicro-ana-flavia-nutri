@@ -1,0 +1,76 @@
+Bacteria.Chloroflexi	1.3512376832			-
+Bacteria.Chloroflexi.Chloroflexia	1.3512376832			-
+Bacteria.Firmicutes.Bacilli.Acholeplasmatales	1.96142812116			-
+Bacteria.Actinobacteriota.Actinobacteria.Micrococcales	2.50816627225	STD-NC	3.94229971508	0.0174846744105
+Eukaryota	2.41581897258			-
+Bacteria.Firmicutes	5.80904408838			-
+Bacteria.Actinobacteriota.Actinobacteria.Bifidobacteriales	3.76147809626			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales	2.62767281555			-
+Bacteria.Firmicutes.Clostridia.Eubacteriales	2.41246968323			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	3.66602882398			-
+Bacteria.Firmicutes.Clostridia.Lachnospirales	4.99630196318			-
+Bacteria.Firmicutes.Clostridia	2.27371923643			-
+Bacteria.Firmicutes.Clostridia.Clostridia_vadinBB60_group	3.215871194			-
+Bacteria.Firmicutes.Bacilli.RF39	3.98832216079	HSD-NC	3.63642504831	0.037242544596
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	1.98396480598			-
+Bacteria.Proteobacteria.Alphaproteobacteria	3.13249715414			-
+Bacteria.Proteobacteria.Gammaproteobacteria	4.5270815994	HSD-NC	4.18185399864	0.0491408339119
+Bacteria.Deferribacterota.Deferribacteres	1.98556789425			-
+Bacteria.Acidobacteriota.Blastocatellia.Blastocatellales	1.73245439156			-
+Bacteria.Actinobacteriota	4.16839095687			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	1.82158190849			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Burkholderiales	4.22912970781	HSD-NC	3.99822959761	0.037242544596
+Bacteria.Campilobacterota.Campylobacteria.Campylobacterales	1.75036100723			-
+Bacteria.Actinobacteriota.Actinobacteria	3.78506260683			-
+Bacteria.Patescibacteria	3.98490805913			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	3.06297013685			-
+Bacteria.Firmicutes.Clostridia.Oscillospirales	5.12636038403			-
+Bacteria.Campilobacterota.Campylobacteria	1.75036100723			-
+Bacteria.Firmicutes.Clostridia.Clostridiales	5.14247676942			-
+Bacteria.Acidobacteriota	1.73245439156			-
+Bacteria.Firmicutes.Clostridia.Peptostreptococcales_Tissierellales	4.77663783301			-
+Bacteria.Actinobacteriota.Actinobacteria.Corynebacteriales	2.86915858156			-
+Bacteria.Verrucomicrobiota	4.34788580531			-
+Bacteria.Firmicutes.Bacilli.Staphylococcales	2.96193438877			-
+Bacteria.Gemmatimonadota.Gemmatimonadetes	2.55025520118			-
+Bacteria.Verrucomicrobiota.Verrucomicrobiae.Verrucomicrobiales	4.34788580531			-
+Bacteria.Firmicutes.Clostridia.Christensenellales	4.40540947857			-
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales	5.47771199538			-
+Bacteria.Gemmatimonadota.Gemmatimonadetes.Gemmatimonadales	2.55025520118			-
+Bacteria.Actinobacteriota.Coriobacteriia	3.98175970415			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales	4.63881256352			-
+Bacteria.Firmicutes.Clostridia.Clostridia_UCG_014	5.11710378861			-
+Bacteria.Cyanobacteria	2.74289295655			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales	2.30256661337			-
+Bacteria.Firmicutes.Clostridia.Clostridia	1.62010918745			-
+Bacteria.Proteobacteria	4.54424447938	HSD-NC	4.19773593558	0.0491408339119
+Bacteria.Firmicutes.Bacilli.Izemoplasmatales	1.17284463675			-
+Bacteria.Desulfobacterota.Desulfovibrionia.Desulfovibrionales	3.01766317239			-
+Bacteria.Bacteroidota.Bacteroidia	5.47771199538			-
+Bacteria.Firmicutes.Clostridia.Peptococcales	3.36440398196			-
+Bacteria.Bacteroidota	5.47771199538			-
+Bacteria	5.99992400755			-
+Bacteria.Firmicutes.Bacilli.Bacillales	2.12456485658			-
+Bacteria.Patescibacteria.Saccharimonadia	3.98490805913			-
+Bacteria.Cyanobacteria.Cyanobacteriia	1.70249116819			-
+Bacteria.Desulfobacterota	3.01766317239			-
+Bacteria.Desulfobacterota.Desulfovibrionia	3.01766317239			-
+Bacteria.Patescibacteria.Saccharimonadia.Saccharimonadales	3.98490805913			-
+Bacteria.Bacteroidota.Bacteroidia.Flavobacteriales	2.19271789052			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacterales	4.07059569342	HSD-NC	3.71158977141	0.0491408339119
+Bacteria.Gemmatimonadota	2.55025520118			-
+Bacteria.Campilobacterota	1.75036100723			-
+Bacteria.Cyanobacteria.Cyanobacteriia.Chloroplast	1.70249116819			-
+Bacteria.Firmicutes.Bacilli	3.86159627183			-
+Bacteria.Cyanobacteria.Vampirivibrionia	2.70140105725			-
+Bacteria.Acidobacteriota.Blastocatellia	1.73245439156			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	1.40366057318			-
+Bacteria.Cyanobacteria.Vampirivibrionia.Gastranaerophilales	2.70140105725			-
+Bacteria.Deferribacterota.Deferribacteres.Deferribacterales	1.98556789425			-
+Bacteria.Chloroflexi.Chloroflexia.Chloroflexales	1.3512376832			-
+Bacteria.Verrucomicrobiota.Verrucomicrobiae	4.34788580531			-
+Bacteria.Deferribacterota	1.98556789425			-
+Bacteria.Actinobacteriota.Coriobacteriia.Coriobacteriales	3.98175970415			-
+Bacteria.Firmicutes.Clostridia.uncultured	1.68848402388			-
+Bacteria.Firmicutes.Bacilli.Erysipelotrichales	4.75431788929			-
+Bacteria.Firmicutes.Clostridia.Monoglobales	4.20316720698			-
