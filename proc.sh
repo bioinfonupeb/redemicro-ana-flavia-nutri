@@ -1,7 +1,7 @@
-EXPS=('NCxSTD-NC' 'NRxSTD-NR' 'STD-NCxHSD-NC' 'STD-NCxSTD-NR' 'STD-NRxHSD-NR' 'NCxNR' 'NRxHSD-NR' 'HSD-NCxHSD-NR' 'NCxHSD-NC');
+#EXPS=('NCxSTD-NC' 'NRxSTD-NR' 'STD-NCxHSD-NC' 'STD-NCxSTD-NR' 'STD-NRxHSD-NR' 'NCxNR' 'NRxHSD-NR' 'HSD-NCxHSD-NR' 'NCxHSD-NC');
 #EXPS=('NCxSTD-NC' 'NRxSTD-NR')
 # EXPS=('NCxSTD-NC')
-#EXPS=('HSD-NCxHSD-NR')
+EXPS=('HSD-NCxHSD-NR')
 
 STEPS=('step-prepare-data', 'step-quality-control', 'step-metataxonomy', 'step-rarefaction-analysis', 'step-diversity-analysis', 'step-abundance-analysis', 'step-diversity-analysis', 'step-lefse-analysis')
 
